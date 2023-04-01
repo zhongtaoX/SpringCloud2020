@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="build(SpringCloud2020项目搭建bug修复): SpringCloud2020项目搭建+Eureka注册中心等bug修复" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dfcd5224-d0ad-422c-8999-c1f4a04fb740" />
+        <option name="url" value="https://github.com/zhongtaoX/SpringCloud2020.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Java/apache-maven-3.6.3/apache-maven-3.6.3-install/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\apache-maven-3.6.3-install\apache-maven-3.6.3\conf\settings_springcloud2020.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MrVv3Wh0qaTl6tz60rJZ4UU03b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/JavaStudy/JavaStudyProjects/SpringCloud2020",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2678161",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "3c143cc7160dd6895bf803394ccb504c",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_provider_payment8002\src\main\java\com\zt\springcloud" />
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_eureka_server7003\src\main\resources" />
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_eureka_server7002\src\main\resources" />
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_provider_payment8001\src\main\resources" />
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_api_commons\src\main\java\com\zt\springcloud\entities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_api_commons\src\main\resources" />
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_api_commons\src\main\java\com\zt\springcloud" />
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_provider_payment8001\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaMain7002">
+    <configuration name="CommonsMain8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_api_commons8000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.CommonsMain8000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_eureka_server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_eureka_server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_eureka_server7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.EurekaMain7003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_consumer_order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_provider_payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud_provider_payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud_eureka_server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="" />
+      <option name="specificationPath" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="" />
+      <created>1678525916344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678525916344</updated>
+      <workItem from="1678525918367" duration="729000" />
+      <workItem from="1678526658398" duration="85000" />
+      <workItem from="1678526751600" duration="2200000" />
+      <workItem from="1678528966766" duration="2205000" />
+      <workItem from="1678531186640" duration="74000" />
+      <workItem from="1678531269059" duration="455000" />
+      <workItem from="1678531733925" duration="42000" />
+      <workItem from="1678531784619" duration="9207000" />
+      <workItem from="1678592819718" duration="2517000" />
+      <workItem from="1678627114177" duration="4263000" />
+      <workItem from="1678631530612" duration="5548000" />
+      <workItem from="1678715620933" duration="5733000" />
+      <workItem from="1678803308836" duration="6494000" />
+      <workItem from="1678891257952" duration="2383000" />
+      <workItem from="1679489780094" duration="8705000" />
+      <workItem from="1680011740597" duration="7560000" />
+      <workItem from="1680019625492" duration="1166000" />
+      <workItem from="1680098343145" duration="1364000" />
+      <workItem from="1680099792986" duration="37000" />
+      <workItem from="1680099838447" duration="7093000" />
+      <workItem from="1680354025127" duration="557000" />
+    </task>
+    <task id="LOCAL-00001" summary="build(SpringCloud2020项目搭建): SpringCloud2020项目搭建+Eureka注册中心">
+      <created>1680012974364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680012974364</updated>
+    </task>
+    <task id="LOCAL-00002" summary="build(SpringCloud2020项目搭建bug修复): SpringCloud2020项目搭建+Eureka注册中心等bug修复">
+      <created>1680106929450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680106929450</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="build(SpringCloud2020项目搭建): SpringCloud2020项目搭建+Eureka注册中心" />
+    <MESSAGE value="build(SpringCloud2020项目搭建bug修复): SpringCloud2020项目搭建+Eureka注册中心等bug修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="build(SpringCloud2020项目搭建bug修复): SpringCloud2020项目搭建+Eureka注册中心等bug修复" />
+  </component>
+</project>
