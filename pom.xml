@@ -12,13 +12,13 @@
 
     <!--创建子模块自动生成-->
     <modules>
-        <module>cloud_provider_payment8001</module>
-        <module>cloud_consumer_order80</module>
-        <module>cloud_api_commons8000</module>
-        <module>cloud_eureka_server7001</module>
-        <module>cloud_eureka_server7002</module>
-        <module>cloud_eureka_server7003</module>
-        <module>cloud_provider_payment8002</module>
+        <module>cloud-provider-payment8001</module>
+        <module>cloud-consumer-order80</module>
+        <module>cloud-api-commons8000</module>
+        <module>cloud-eureka-server7001</module>
+        <module>cloud-eureka-server7002</module>
+        <module>cloud-eureka-server7003</module>
+        <module>cloud-provider-payment8002</module>
     </modules>
 
     <!--统一管理jar包版本-->
