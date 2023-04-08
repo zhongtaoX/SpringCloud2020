@@ -22,3 +22,4 @@ eureka:
       defaultZone: http://localhost:7001/eureka, http://localhost:7002/eureka, http://localhost:7003/eureka
   instance:
     instance-id: order80
+    prefer-ip-address: true
