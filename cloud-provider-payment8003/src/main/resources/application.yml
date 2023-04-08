@@ -6,7 +6,7 @@ spring:
     name: cloud-provider-payment
   cloud:
     zookeeper:
-      connect-string: 192.168.70.128:2181
+      connect-string: 192.168.70.128:2181           #本机192.168.10.4
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource    # 当前数据源操作类型
     driver-class-name: org.gjt.mm.mysql.Driver      # mysql驱动包 com.mysql.cj.jdbc.Driver
