@@ -4,47 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="feat(添加81模块): 添加81模块+consul">
+    <list default="true" id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口">
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/config/MyRule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons8000/target/cloud-api-commons8000-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons8000/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons8000/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/springcloud/OrderMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/springcloud/controller/OrderController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/OrderMain80.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/cloud-consumer-order80-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/zt/springcloud/EurekaMain7001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/zt/springcloud/EurekaMain7001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/zt/springcloud/EurekaMain7001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/zt/springcloud/EurekaMain7001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/cloud-eureka-server7001-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/zt/springcloud/EurekaMain7002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/zt/springcloud/EurekaMain7002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/zt/springcloud/EurekaMain7002.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/zt/springcloud/EurekaMain7002.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7003/src/main/java/com/zt/springcloud/EurekaMain7003.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7003/src/main/java/com/zt/springcloud/EurekaMain7003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7003/target/classes/com/zt/springcloud/EurekaMain7003.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7003/target/classes/com/zt/springcloud/EurekaMain7003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7003/target/cloud-eureka-server7003-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7003/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7003/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/zt/springcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/zt/springcloud/PaymentMain8001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/zt/springcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/zt/springcloud/PaymentMain8001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/cloud-provider-payment8001-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/zt/springcloud/PaymentMain8002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/zt/springcloud/PaymentMain8002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/zt/springcloud/PaymentMain8002.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/zt/springcloud/PaymentMain8002.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/cloud-provider-payment8002-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/cloud-provider-payment8003-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/cloud-provider-payment8004-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/maven-archiver/pom.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +49,10 @@
         <option name="url" value="https://github.com/zhongtaoX/SpringCloud2020.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,14 +97,18 @@
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "D:/JavaStudy/JavaStudyProjects/SpringCloud2020/cloud-consumer-order81/src/main/java/com/zt/springcloud",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.6425287",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "settings.editor.selected.configurable": "advanced.settings",
     "spring.configuration.checksum": "233a18d2126740ba26244bb5be50dd69",
     "vue.rearranger.settings.migration": "true"
   }
@@ -312,6 +285,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zhongtao\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="" />
@@ -352,7 +328,12 @@
       <workItem from="1680959729853" duration="27000" />
       <workItem from="1680960352671" duration="7000" />
       <workItem from="1681044744766" duration="7834000" />
-      <workItem from="1681137746036" duration="3648000" />
+      <workItem from="1681137746036" duration="3944000" />
+      <workItem from="1681306348064" duration="1121000" />
+      <workItem from="1681309580322" duration="201000" />
+      <workItem from="1681309838136" duration="294000" />
+      <workItem from="1681310228231" duration="18000" />
+      <workItem from="1681310260373" duration="3343000" />
     </task>
     <task id="LOCAL-00001" summary="build(SpringCloud2020项目搭建): SpringCloud2020项目搭建+Eureka注册中心">
       <created>1680012974364</created>
@@ -473,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681054585575</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口">
+      <created>1681141964974</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1681141964975</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,10 +506,16 @@
     <MESSAGE value="feat(修改pom文件): 修改pom文件" />
     <MESSAGE value="feat(添加8004模块): 添加8004模块+consul配置+eureka、zookeeper删减" />
     <MESSAGE value="feat(添加81模块): 添加81模块+consul" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(添加81模块): 添加81模块+consul" />
+    <MESSAGE value="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
+    <expand>
+      <path>
+        <item name="SpringCloud2020" type="b2602c69:ProjectViewProjectNode" />
+        <item name="SpringCloud2020" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
