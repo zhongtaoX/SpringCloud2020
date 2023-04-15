@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口">
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/config/MyRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/zt/springcloud/OrderMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/OrderMain80.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/zt/springcloud/controller/OrderController.class" afterDir="false" />
+    <list default="true" id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="feat(调用Ribbon): 调用Ribbon">
+      <changelist_data name="zhongtao" email="18269776130@163.com" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="zhongtao &lt;18269776130@163.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -36,6 +37,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -333,7 +335,7 @@
       <workItem from="1681309580322" duration="201000" />
       <workItem from="1681309838136" duration="294000" />
       <workItem from="1681310228231" duration="18000" />
-      <workItem from="1681310260373" duration="3343000" />
+      <workItem from="1681310260373" duration="3926000" />
     </task>
     <task id="LOCAL-00001" summary="build(SpringCloud2020项目搭建): SpringCloud2020项目搭建+Eureka注册中心">
       <created>1680012974364</created>
@@ -461,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681141964975</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feat(调用Ribbon): 调用Ribbon">
+      <created>1681313693521</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681313693521</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +516,8 @@
     <MESSAGE value="feat(添加8004模块): 添加8004模块+consul配置+eureka、zookeeper删减" />
     <MESSAGE value="feat(添加81模块): 添加81模块+consul" />
     <MESSAGE value="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口" />
+    <MESSAGE value="feat(调用Ribbon): 调用Ribbon" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(调用Ribbon): 调用Ribbon" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
