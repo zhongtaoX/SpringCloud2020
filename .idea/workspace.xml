@@ -4,8 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="feat(调用Ribbon): 调用Ribbon">
-      <changelist_data name="zhongtao" email="18269776130@163.com" />
+    <list default="true" id="4301aa82-5ad0-4633-a318-16b75e717abd" name="Changes" comment="feat(调用Ribbon): （追加）调用Ribbon">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-openfeign-order80/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-openfeign-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-openfeign-order80/src/main/java/com/zt/springcloud/OpenFeignMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-openfeign-order80/src/main/java/com/zt/springcloud/controller/PaymentOpenFeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-openfeign-order80/src/main/java/com/zt/springcloud/service/PaymentOpenFeignService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-openfeign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons8000/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons8000/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order81/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order81/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7003/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7003/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +55,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -35,6 +69,11 @@
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
@@ -67,11 +106,6 @@
         <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\apache-maven-3.6.3-install\apache-maven-3.6.3\conf\settings_springcloud2020.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
@@ -96,8 +130,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev-zhongtao",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/JavaStudy/JavaStudyProjects/SpringCloud2020/cloud-consumer-order81/src/main/java/com/zt/springcloud",
+    "last_opened_file_path": "D:/JavaStudy/JavaStudyProjects/SpringCloud2020/cloud-consumer-openfeign-order80/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.stylelint": "true",
@@ -107,11 +142,11 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.6425287",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "spring.configuration.checksum": "233a18d2126740ba26244bb5be50dd69",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "spring.configuration.checksum": "c2ac7859ad2df5135401bf4a9effd0e2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -120,11 +155,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud-consumer-openfeign-order80\src\main\resources" />
       <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud-consumer-order81\src\main\java\com\zt\springcloud" />
       <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud-consumer-order81\src\main\resources" />
       <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud-provider-payment8004\src\main\java\com\zt\springcloud" />
       <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud-provider-payment8003\src\main\java\com\zt\springcloud" />
-      <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud-provider-payment8003\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JavaStudy\JavaStudyProjects\SpringCloud2020\cloud_api_commons\src\main\resources" />
@@ -140,7 +175,7 @@
     </option>
     <option name="openRunningConfigInTab" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderMain80">
+  <component name="RunManager" selected="Spring Boot.OpenFeignMain80">
     <configuration name="CommonsMain8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="cloud-api-commons8000" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.CommonsMain8000" />
@@ -169,9 +204,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-consumer-order80" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.OrderMain80" />
+    <configuration name="OpenFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-openfeign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.OpenFeignMain80" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zt.springcloud.*" />
@@ -182,9 +217,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderMain81" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-consumer-order81" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.OrderMain81" />
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.springcloud.OrderMain80" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zt.springcloud.*" />
@@ -270,7 +305,7 @@
       <item itemvalue="Spring Boot.PaymentMain8003" />
       <item itemvalue="Spring Boot.CommonsMain8000" />
       <item itemvalue="Spring Boot.EurekaMain7001" />
-      <item itemvalue="Spring Boot.OrderMain81" />
+      <item itemvalue="Spring Boot.OpenFeignMain80" />
       <item itemvalue="Spring Boot.PaymentMain8004" />
       <item itemvalue="Spring Boot.OrderMain80" />
       <item itemvalue="Spring Boot.PaymentMain8001" />
@@ -278,10 +313,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="Spring Boot.OpenFeignMain80" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
         <item itemvalue="Spring Boot.PaymentMain8001" />
-        <item itemvalue="Spring Boot.OrderMain81" />
+        <item itemvalue="Spring Boot.OrderMain80" />
         <item itemvalue="Spring Boot.PaymentMain8004" />
       </list>
     </recent_temporary>
@@ -336,6 +371,13 @@
       <workItem from="1681309838136" duration="294000" />
       <workItem from="1681310228231" duration="18000" />
       <workItem from="1681310260373" duration="3926000" />
+      <workItem from="1681565530258" duration="880000" />
+      <workItem from="1681566468333" duration="321000" />
+      <workItem from="1681566882435" duration="108000" />
+      <workItem from="1681567000561" duration="179000" />
+      <workItem from="1681567188883" duration="8788000" />
+      <workItem from="1681651897567" duration="391000" />
+      <workItem from="1681652349499" duration="2768000" />
     </task>
     <task id="LOCAL-00001" summary="build(SpringCloud2020项目搭建): SpringCloud2020项目搭建+Eureka注册中心">
       <created>1680012974364</created>
@@ -470,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681313693521</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat(调用Ribbon): （追加）调用Ribbon">
+      <created>1681565903461</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681565903461</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +566,8 @@
     <MESSAGE value="feat(添加81模块): 添加81模块+consul" />
     <MESSAGE value="feat(恢复Eureka服务): 恢复Eureka服务，测试自带Ribbon负载均衡，IRul接口" />
     <MESSAGE value="feat(调用Ribbon): 调用Ribbon" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(调用Ribbon): 调用Ribbon" />
+    <MESSAGE value="feat(调用Ribbon): （追加）调用Ribbon" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(调用Ribbon): （追加）调用Ribbon" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
